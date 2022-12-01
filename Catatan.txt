@@ -1,0 +1,7 @@
+email : admin@gmail.com
+password : bayu
+Untuk mengakses database di phpmyadmin hapus jika terdapat nama helpit jika sudah
+lalu buat database dengan nama = helpit
+jika sudah klik database helpit> klik import > pilih file helpit di folder sql
+Selesai anda bisa mengakses web tersebut
+Terima Kasih
